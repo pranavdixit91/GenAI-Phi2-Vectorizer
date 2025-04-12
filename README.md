@@ -113,9 +113,6 @@ Refer to `requirements.txt` for the full list of dependencies.
 
 - **Path Issues**: Verify that the `docs/` directory exists and contains the input files. Ensure the script is executed from the project root directory.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Acknowledgments
 
